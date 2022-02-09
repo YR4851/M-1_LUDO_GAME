@@ -1,5 +1,5 @@
 # Implementation
-* In c plrogramming
+* In c programming
 
 ## Set one
   * concept
