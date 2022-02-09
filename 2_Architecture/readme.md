@@ -1,5 +1,5 @@
 # Architecture
 * Structural
 * Behavioral
-    Flowcharts
-    Use case diagrams
+   * Flowcharts
+   * Use case diagrams
