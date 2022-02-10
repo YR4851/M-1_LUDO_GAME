@@ -9,7 +9,7 @@
 3. User just have to command with single digits as notations of their choice.
 
 ## Low level requirements:
-* How each feature is imoplemented.
+* How each feature is implimented.
 * Linkage of high level to low level.
 
 # SWOT
