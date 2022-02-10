@@ -13,4 +13,10 @@
 * Linkage of high level to low level.
 
 # SWOT
-# 4W1H
+# 4W1H:
+* What - For bordem in Covid I have made this simple ROck, Paper and Scissors game.
+* Who - I have made this game with little help from my colleagues.
+* Where - 
+* when - 
+
+* How - 
