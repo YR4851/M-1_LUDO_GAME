@@ -4,5 +4,5 @@
 
 ## Behavioral
    * Flowchart:
-   * 
+   * ![FLOWCHART](https://raw.githubusercontent.com/YR4851/M-1_ROCK-PAPER-SCISSORS_GAME/main/Screenshot%20(71).png)
    * Use case diagrams
