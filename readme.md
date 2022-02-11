@@ -1,6 +1,7 @@
 # M1_ROCK-PAPER-SCISSORS_GAME
 ![codacy](https://api.codiga.io/project/31055/score/svg)
 ![codacy](https://api.codiga.io/project/31055/status/svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d3e716f5c519435c9582b8e9b28c77d9)](https://www.codacy.com/gh/YR4851/M-1_ROCK-PAPER-SCISSORS_GAME/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=YR4851/M-1_ROCK-PAPER-SCISSORS_GAME&amp;utm_campaign=Badge_Grade)
 
  ![GAME RULES](https://www.coltnews.com/wp-content/uploads/2016/04/RPS.png)
  
