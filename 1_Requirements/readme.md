@@ -12,7 +12,8 @@
 * How each feature is implimented.
 * Linkage of high level to low level.
 
-# SWOT
+# SWOT:
+![SWOT analysis](https://raw.githubusercontent.com/YR4851/M-1_ROCK-PAPER-SCISSORS_GAME/main/1_Requirements/SWOT/Screenshot%20(67).png)
 # 4W1H:
 ##  Who:
 Anyone can play this game for entertainment.
