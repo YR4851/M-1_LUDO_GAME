@@ -18,3 +18,6 @@ Folder             | Description
 ## References:
 * https://en.wikipedia.org/wiki/Rock_paper_scissors
 * https://www.youtube.com/c/CodeWithHarry
+
+## build status:
+[![build-linux](https://github.com/YR4851/M-1_ROCK-PAPER-SCISSORS_GAME/actions/workflows/build-linux.yml/badge.svg)](https://github.com/YR4851/M-1_ROCK-PAPER-SCISSORS_GAME/actions/workflows/build-linux.yml)
