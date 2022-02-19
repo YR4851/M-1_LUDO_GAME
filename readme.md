@@ -1,4 +1,5 @@
 # M1_ROCK-PAPER-SCISSORS_GAME
+[![build-linux](https://github.com/YR4851/M-1_ROCK-PAPER-SCISSORS_GAME/actions/workflows/build-linux.yml/badge.svg)](https://github.com/YR4851/M-1_ROCK-PAPER-SCISSORS_GAME/actions/workflows/build-linux.yml)
 ![codiga](https://api.codiga.io/project/31055/score/svg)
 ![codiga](https://api.codiga.io/project/31055/status/svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/748bacf3457343fd84e3a6a569d34928)](https://www.codacy.com/gh/YR4851/M-1_ROCK-PAPER-SCISSORS_GAME/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=YR4851/M-1_ROCK-PAPER-SCISSORS_GAME&amp;utm_campaign=Badge_Grade)
@@ -19,5 +20,5 @@ Folder             | Description
 * https://en.wikipedia.org/wiki/Rock_paper_scissors
 * https://www.youtube.com/c/CodeWithHarry
 
-## build status:
-[![build-linux](https://github.com/YR4851/M-1_ROCK-PAPER-SCISSORS_GAME/actions/workflows/build-linux.yml/badge.svg)](https://github.com/YR4851/M-1_ROCK-PAPER-SCISSORS_GAME/actions/workflows/build-linux.yml)
+
+
