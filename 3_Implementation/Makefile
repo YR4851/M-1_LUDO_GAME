@@ -1,5 +1,5 @@
 
-PROJ_NAME = RockPaperScissors
+PROJ_NAME = ROCK-PAPER-SCISSORS
 SRC= src/main.c\
 src/project.c\
 
