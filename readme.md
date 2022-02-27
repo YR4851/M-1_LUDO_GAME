@@ -1,5 +1,5 @@
 # M1_ROCK-PAPER-SCISSORS_GAME[![Build-Linux]
-![build test](https://github.com/YR4851/M-1_ROCK-PAPER-SCISSORS_GAME/actions/workflows/Build-Linux.yml/badge.svg)]
+![build test](https://github.com/YR4851/M-1_ROCK-PAPER-SCISSORS_GAME/actions/workflows/Build-Linux.yml/badge.svg)
 ![codiga](https://api.codiga.io/project/31055/score/svg)
 ![codiga](https://api.codiga.io/project/31055/status/svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/748bacf3457343fd84e3a6a569d34928)](https://www.codacy.com/gh/YR4851/M-1_ROCK-PAPER-SCISSORS_GAME/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=YR4851/M-1_ROCK-PAPER-SCISSORS_GAME&amp;utm_campaign=Badge_Grade)
